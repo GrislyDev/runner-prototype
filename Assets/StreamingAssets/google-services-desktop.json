@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "545644633279",
+    "firebase_url": "https://grislydev-runner-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "grislydev-runner",
+    "storage_bucket": "grislydev-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644633279:android:40836d5c875832f60dba0a",
+        "android_client_info": {
+          "package_name": "com.GrislyDev.RunnerPrototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCQKveKuvH078g5Com0RKRYGbAhg4DYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
